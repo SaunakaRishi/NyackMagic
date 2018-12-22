@@ -22,3 +22,5 @@ Create settings page in which user can select Yes/No about being texted a coupon
 Magic 8
 
 Integrate with Siri / Alexa
+
+Personalize?  Add log-in feature and provide individual suggestions?
