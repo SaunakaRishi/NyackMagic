@@ -23,4 +23,8 @@ Magic 8
 
 Integrate with Siri / Alexa
 
+Be voice activated
+
+Maintain high-level of curation
+
 Personalize?  Add log-in feature and provide individual suggestions?
